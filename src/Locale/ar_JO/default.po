@@ -1,0 +1,79 @@
+msgid "jami3ti_title"
+msgstr "Jami3ti Initiative"
+
+msgid "jami3ti_welcome_message"
+msgstr "Welcome to Jami3ti"
+
+msgid "navbar_toogle_navigation"
+msgstr "Toggle navigation"
+
+msgid "navbar_home"
+msgstr "HomeARA"
+
+msgid "navbar_about"
+msgstr "AboutARA"
+
+msgid "navbar_contact"
+msgstr "ContactARA"
+
+msgid "navbar_faqs"
+msgstr "FAQs"
+
+msgid "navbar_english"
+msgstr "English"
+
+msgid "navbar_arabic"
+msgstr "Arabic"
+
+msgid "home_headline1_title"
+msgstr "Welcome to Jami3ti v2"
+
+msgid "home_headline1_text"
+msgstr "Unesco Jami3ti helps bridging the higher education gap."
+
+msgid "home_headline2_title"
+msgstr "Register as an Applicant"
+
+msgid "home_headline2_text"
+msgstr "Unesco Jami3ti helps you to find higher education opportunities."
+
+msgid "home_headline3_title"
+msgstr "Register as an Opportunity Provider"
+
+msgid "home_headline3_text"
+msgstr "Understand the demand for Higher Education services and advertise opportunities for Youth."
+
+msgid "home_headline1_button"
+msgstr "Learn more"
+
+msgid "home_headline2_button"
+msgstr "Sign up today"
+
+msgid "home_headline3_button"
+msgstr "Register now"
+
+msgid "footer_app_version"
+msgstr "Jami3ti v2.01"
+
+msgid "footer_copyright"
+msgstr "2016 UNESCO, All Rights Reserved"
+
+msgid "footer_disclaimer"
+msgstr "Disclaimer"
+
+msgid "footer_contact"
+msgstr "Contact Us"
+
+msgid "footer_back_to_top"
+msgstr "Back to top"
+
+
+#. -------------------
+#. Dropdowns
+#. -------------------
+
+msgid "Yes"
+msgstr "Yes_ara"
+
+msgid "No"
+msgstr "No_Ara"

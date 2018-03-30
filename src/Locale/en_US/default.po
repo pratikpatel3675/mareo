@@ -1,0 +1,624 @@
+
+msgid "Lost items"
+msgstr "Manage your lost items"
+
+msgid "Found items"
+msgstr "Manage your Found items"
+
+
+
+msgid "jami3ti_title"
+msgstr "Jami3ti Initiative"
+
+msgid "jami3ti_welcome_message"
+msgstr "Welcome to Jami3ti"
+
+#. -------------------
+#. NavBar
+#. -------------------
+
+msgid "navbar_toogle_navigation"
+msgstr "Toggle navigation"
+
+msgid "navbar_home"
+msgstr "Home"
+
+msgid "navbar_countries"
+msgstr "Countries"
+
+msgid "navbar_directory"
+msgstr "Directory"
+
+msgid "navbar_opportunities"
+msgstr "Opportunities"
+
+msgid "navbar_about"
+msgstr "About"
+
+msgid "navbar_contact"
+msgstr "Contact"
+
+msgid "navbar_faqs"
+msgstr "FAQs"
+
+msgid "navbar_english"
+msgstr "English"
+
+msgid "navbar_arabic"
+msgstr "عربي"
+
+msgid "navbar_login"
+msgstr "Login"
+
+#. -------------------
+#. My Profile Menu
+#. -------------------
+
+msgid "navbar_my_profile"
+msgstr "My Profile"
+
+msgid "navbar_logout"
+msgstr "Logout"
+
+#. -------------------
+#. Login Menu
+#. -------------------
+
+msgid "login_title"
+msgstr "Login"
+
+msgid "login_username"
+msgstr "Email"
+
+msgid "login_password"
+msgstr "Password"
+
+msgid "login_forgot_password"
+msgstr "Forgot your password?"
+
+msgid "login_not_registered"
+msgstr "Not yet registered?"
+
+#. -------------------
+#. Messages
+#. -------------------
+
+msgid "username_required"
+msgstr "A username is required"
+
+msgid "password_required"
+msgstr "A passwword is required"
+
+msgid "role_required"
+msgstr "A role is required"
+
+#. -------------------
+#. Footer
+#. -------------------
+
+msgid "footer_app_version"
+msgstr "Jami3ti v2.01"
+
+msgid "footer_copyright"
+msgstr "2016 UNESCO, All Rights Reserved"
+
+msgid "footer_disclaimer"
+msgstr "Disclaimer"
+
+msgid "footer_contact"
+msgstr "Contact Us"
+
+msgid "footer_back_to_top"
+msgstr "Back to top"
+
+#. -------------------
+#. Buttons
+#. -------------------
+
+msgid "btn_close"
+msgstr "Close"
+
+msgid "btn_cancel"
+msgstr "Cancel"
+
+msgid "btn_login"
+msgstr "Login"
+
+msgid "btn_edit"
+msgstr "Edit"
+
+msgid "btn_Submit"
+msgstr "Submit"
+Submit
+
+#. -------------------
+#. Home Page
+#. -------------------
+
+msgid "home_headline1_title"
+msgstr "Welcome to Jami3ti v2"
+
+msgid "home_headline1_text"
+msgstr "Unesco Jami3ti helps bridging the higher education gap."
+
+msgid "home_headline2_title"
+msgstr "Register as an Applicant"
+
+msgid "home_headline2_text"
+msgstr "Unesco Jami3ti helps you to find higher education opportunities."
+
+msgid "home_headline3_title"
+msgstr "Register as an Opportunity Provider"
+
+msgid "home_headline3_text"
+msgstr "Understand the demand for Higher Education services and advertise opportunities for Youth."
+
+msgid "home_headline1_button"
+msgstr "Learn more"
+
+msgid "home_headline2_button"
+msgstr "Sign up today"
+
+msgid "home_headline3_button"
+msgstr "Register now"
+
+#. -------------------
+#. Home Page - Circle Headings
+#. -------------------
+
+msgid "home_circle1_title"
+msgstr "Applicants"
+
+msgid "home_circle1_text"
+msgstr "Register online and get access to our directory of higher education institutions across the world. Stay tuned and get opportunities matching your profile. "
+
+msgid "home_circle2_title"
+msgstr "Opportunities"
+
+msgid "home_circle2_text"
+msgstr "Browse higher education opportunities published on Jami3ti and get back onboard with your higher education."
+
+msgid "home_circle3_title"
+msgstr "Providers"
+
+msgid "home_circle3_text"
+msgstr "Register online to publish and manage higher education opportunities and online applications."
+
+msgid "view_details"
+msgstr "View details"
+
+#. -------------------
+#. Home Page - Featured
+#. -------------------
+
+msgid "home_featured1_title"
+msgstr "What is the Jami3ti Initiative?"
+
+msgid "home_featured1_subtitle"
+msgstr "It'll blow your mind."
+
+msgid "home_featured1_text"
+msgstr "Text about what is the jami3ti initiative."
+
+msgid "home_featured2_title"
+msgstr "How does it works?"
+
+msgid "home_featured2_subtitle"
+msgstr "It's simple..."
+
+msgid "home_featured2_text"
+msgstr "Text about how it works."
+
+
+msgid "home_featured3_title"
+msgstr "Get involved!"
+
+msgid "home_featured3_subtitle"
+msgstr "and register online now."
+
+msgid "home_featured3_text"
+msgstr "Benefits of registering on Jami3ti."
+
+#. -------------------
+#. About Page
+#. -------------------
+
+msgid "about_title_part1"
+msgstr "About"
+
+msgid "about_title_part2"
+msgstr " Jami3ti"
+
+msgid "about_text1"
+msgstr "Jami3ti provides a single online platform for dissemination of relevant information to those that are either seeking or providing Higher Education opportunities or services. Jami3ti also addresses the need for better understanding the demands for Higher Education of the displaced Syrian youth in Jordan."
+
+msgid "about_text2"
+msgstr "As the only United Nations agency with a mandate in Higher Education, UNESCO’s contribution through this website is to facilitate the development of evidence-based policy responses to the educational needs of the displaced Syrian Youth and also vulnerable Jordanian peers impacted by the refugee crisis."
+
+msgid "about_text3"
+msgstr "Jordan continues to receive refugees as a result of the protracted civil conflict that erupted in Syria in March 2011. UNHCR statistics on refugees that are eligible for higher education present only aggregated figures; not enough to facilitate the provision of university education opportunities matching their schooling profiles and targeted needs. There also seems to be a real information gap with regard to matching potential beneficiaries of higher education services to available options for them to start or resume their studies. In addition to the lack of access to information on existing opportunities in their host countries or abroad, some refugees may be facing financial, administrative, and geographical accessibility barriers inside the host country that prevent the majority from resuming their university education. In a humanitarian environment, donor resource allocations face competing priorities between life-saving, relief or resilience concerns. Donors are increasingly searching for hard evidence on the real nature and scope of the demand, as well as, concrete cost-effective opportunities before financing higher education programmes for displaced refugees."
+
+#. -------------------
+#. Carousel
+#. -------------------
+
+msgid "Previous"
+msgstr "Nrevious"
+
+msgid "Next"
+msgstr "Next"
+
+#. -------------------
+#. Country Page
+#. -------------------
+
+msgid "Welcome"
+msgstr "Welcome "
+
+msgid "to"
+msgstr "to "
+
+msgid "HostedApplicants"
+msgstr "Hosted Applicants"
+
+msgid "OpportunitySeekers"
+msgstr "Opportunity Seekers"
+
+msgid "Institutions"
+msgstr "Higher Education Institutions"
+
+msgid "OnlineOpportunities"
+msgstr "Online Opportunities"
+
+msgid "LatestOpportunities"
+msgstr "Latest Opportunities"
+
+#. -------------------
+#. List Country Page
+#. -------------------
+
+msgid "Heading"
+msgstr "Visit our Country Pages"
+
+msgid "HeadingText"
+msgstr "Jami3ti is an expanding regional initiave providing services to applicants hosted in the following countries."
+
+#. -------------------
+#. Applicant Profile Tabs
+#. -------------------
+
+msgid "applicant_menu_general"
+msgstr "General Information"
+
+msgid "applicant_menu_address"
+msgstr "Contact Information"
+
+msgid "applicant_menu_account"
+msgstr "My Account"
+
+msgid "applicant_menu_education"
+msgstr "My Previous Education"
+
+msgid "applicant_menu_education_needs"
+msgstr "My Desired Education"
+
+msgid "applicant_menu_other"
+msgstr "Other Needs"
+
+#. -------------------
+#. Dropdowns
+#. -------------------
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Married"
+msgstr "Married"
+
+msgid "Dicorced"
+msgstr "Divorced"
+
+
+#. -------------------
+#. Flash Messages
+#. -------------------
+
+msgid "The record has been saved."
+msgstr "The record has been saved."
+
+msgid "The record could not be saved. Please, try again."
+msgstr "The record could not be saved. Please, try again."
+
+msgid "The record has been deleted."
+msgstr "The record has been deleted."
+
+msgid "The record could not be deleted. Please, try again."
+msgstr "The record could not be deleted. Please, try again."
+
+msgid "The passwords are not matching. Please, retype passwords."
+msgstr "The passwords are not matching. Please, retype passwords."
+
+
+
+#. -------------------
+#. Applicant Profile
+#. -------------------
+
+msgid "MyApplicantProfile"
+msgstr "My Profile"
+
+
+
+#. -------------------
+#. Disclaimer Page
+#. -------------------
+
+msgid "THIS_IS_THE_DISCLAIMER"
+msgstr "This Is The Disclamier"
+
+msgid "disclaimer_title1"
+msgstr "Disclaimer"
+
+msgid "disclaimer_p1"
+msgstr "UNESCO does not warrant that the information, documents and materials contained in its website is complete and correct and shall not be liable whatsoever for any damages incurred as a result of its use.<br> <br>This website and its content has been produced with the financial assistance of the European Union.<br> The contents of this site are the sole responsibility of UNESCO and can in no way be taken to reflect the views of the European Union. Some cases of individuals claiming to act on behalf of UNESCO have been reported to the Organization by means of “phishing” and/or fraudulent emails. Please note that UNESCO does not charge a fee for use of the website.<br> Website users are responsible for the information that is entered. UNESCO, however, maintains the right to discontinue access for users if it is deemed that information is not correct and/or harmful to users of the website.<br> By providing a telephone number and email address, you expressly content to receiving information from us. UNESCO may transmit information via telephone and email to inform users of updates to the website and to share other information.<br>"
+
+
+msgid "disclaimer_title2"
+msgstr "Our Privacy Policy"
+
+msgid "disclaimer_p2"
+msgstr "UNESCO is committed to protecting individual privacy and securing the personal information made available to us when you visit unesco.org/jami3ti, as well UNESCO pages on other sites (such as official UNESCO profiles on social networks).<br> This privacy policy describes what information is made available to the UNESCO and third parties when you visit unesco.org/jami3ti or official UNESCO pages on other sites, and how the UNESCO uses and stores that information.<br> UNESCO will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively<br> . Information received and stored by UNESCO when you visit this website : <br><br>"
+
+
+msgid "sub1-disclaimer_p2"
+msgstr "By accessing the UNESCO Jami3ti website, certain information, such as Internet protocol (IP) addresses, navigation behaviour through the website, the software used and the time spent, along with other similar information, will be stored on UNESCO servers. These will not specifically identify you. The information will be used internally only for website traffic analysis."
+
+
+msgid "sub2-disclaimer_p2"
+msgstr "If you provide unique identifying information, such as name, email address, postal address and other information on forms stored on this website, such information will be used only for statistical purposes and will not be published for general access nor disclosed or sold to third parties. UNESCO, however, assumes no responsibility for the security of this information."
+
+
+msgid "disclaimer_title3"
+msgstr "Terms and conditions of use"
+
+
+msgid "disclaimer_p3"
+msgstr "By accessing and using the UNESCO Jami3ti website, you are agreeing to the present Terms and Conditions of Use, as well as all applicable laws and regulations, and undertaking to comply with any applicable rules.<br><br><b> Purpose:</b> Jami3ti is UNESCO's Higher Education platform for Syrian Refugees. It provides a place where individuals can search for scholarship opportunities and also to understand what institutions in Jordan and abroad offer in terms of field of study. The website also serves as a clearinghouse by providing important information about scholarship opportunities outside of Jordan. The information from the survey and the profiles will be used to provide valuable data to help inform decision making on higher education opportunities for Syrians in Jordan. Any content posted on it must be directly or indirectly related to the above purpose.<br><br><b> Access:</b> UNESCO Jami3ti is accessible to individuals and institutions upon validation of a submitted profile. External partners should use credentials communicated to them by UNESCO. See Frequently Asked Questions sections to understand who is eligible and how to create a profile.<br><br><b> User conduct:</b> Every user should at all times be guided by UNESCO's goals and ideals and by the purpose of UNESCO Jami3ti. By accessing UNESCO Jami3ti, you specifically agree not to:<br> 1) store any material that constitutes advertising, spam, unsolicited commercial information, and any other form of solicitation; <br> 2) upload files that contains any form of malware or viruses, or any other computer software designed to interrupt or limit the functionality of our platform;<br> 3) infringe any patent, trade-mark, copyright, or privacy rights of any party; <br>4) post content that is unlawful, harmful, vulgar, obscene, defamatory, racist or invasive of another's privacy. All user accounts are for personal use only. Every user is responsible for keeping his/her login credentials confidential and for any activity that occurs under such credentials. You agree to notify UNESCO of any unauthorized use of your login credentials.
+
+msgid "disclaimer_p4"
+msgstr "<b>Contact us at: jami3ti@unesco.org <br> <br> Last updated: 13 jul 2016</b>"
+
+#. -------------------
+#. contact page
+#. -------------------
+
+msgid "Contact_Us"
+msgstr "Contact Us"
+
+msgid "contact_text_1"
+msgstr "The Jami3ti initiative is a UNESCO regional initiative. Please contact the UNESCO office in your country."
+
+msgid "contact_text_2"
+msgstr "For general enquiries, use the following email address:"
+
+
+msgid "1355_Market_Street,_Suite_900"
+msgstr "1355 Market Street, Suite 900"
+
+
+msgid "San_Francisco,_CA_94103"
+msgstr "San Francisco, CA_94103"
+
+
+msgid "(123)456-7890"
+msgstr "(123)456-7890"
+
+
+msgid "UNESCO_Beirut_Office"
+msgstr "UNESCO Beirut Office"
+
+msgid "UNESCO_Bagdad_Office"
+msgstr "UNESCO Bagdad Office"
+
+msgid "UNESCO_Amman_Office"
+msgstr "UNESCO Amman Office"
+
+
+#. -------------------
+#. Applicant General
+#. -------------------
+msgid "Fisrtname"
+msgstr "Fisrtname"
+
+msgid "Lastname"
+msgstr "Lastname"
+
+msgid "Fathername"
+msgstr "Fathername"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Birthdate"
+msgstr "Birthdate"
+
+
+msgid "Nationality"
+msgstr "Nationality"
+
+msgid "Marital__Status"
+msgstr "Marital Status"
+
+msgid "Dependants Count"
+msgstr "Dependants Count"
+
+msgid "Has Disability"
+msgstr "Has Disability"
+
+msgid "Disability_Description"
+msgstr "Disability Description"
+
+msgid "Has_Valid_National_Identity_Card"
+msgstr "Has Valid National Identity Card"
+
+#. -------------------
+#. applicant addresses
+#. -------------------
+
+msgid "Addr__Line1"
+msgstr "Addr Line1"
+
+msgid "Addr__Line2"
+msgstr "Addr Line2"
+
+msgid "Addr__Line3"
+msgstr "Addr Line3"
+
+msgid "City"
+msgstr "City"
+
+msgid "State"
+msgstr "State"
+
+msgid "Postcode"
+msgstr "Postcode"
+
+msgid "Phone__Landline"
+msgstr "Phone Landline"
+
+msgid "Phone__Mobile"
+msgstr "Phone Mobile"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Add_Applicant_Address"
+msgstr "Add Applicant Address"
+
+#. -------------------
+#. applicant-educations
+#. -------------------
+
+msgid "Add Applicant Education"
+msgstr "Add Applicant Education"
+
+msgid "Has_Education_Evidence"
+msgstr "Has Education Evidence"
+
+msgid "Good"
+msgstr "Good"
+
+
+msgid "Excellent"
+msgstr "Excellent"
+
+
+
+
+msgid "IT_Skills_Rating"
+msgstr "IT Skills Rating"
+
+
+msgid "Poor"
+msgstr "Poor"
+
+
+msgid "Fair"
+msgstr "Fair"
+
+msgid "Good"
+msgstr "Good"
+
+msgid "Excellent"
+msgstr "Excellent"
+
+#. -------------------
+#. applicant-education-needs
+#. -------------------
+msgid "Field Of Studies"
+msgstr "Field Of Studies"
+
+msgid "Are you sure you want to delete this record"
+msgstr "Are you sure you want to delete this record"
+
+msgid "Desired Type of Education"
+msgstr "Desired Type of Education"
+
+msgid "Actions"
+msgstr "Actions"
+
+#. -------------------
+#. Applicant Desired Country
+#. -------------------
+Add Applicant Desired Country
+msgid "Add_Applicant_Desired_Country"
+msgstr "Add Applicant Desired Country"
+
+
+msgid "Edit_Applicant_Desired_Country"
+msgstr "Edit Applicant Desired Country"
+
+#. -------------------
+#. applicant Desired Education
+#. -------------------
+
+msgid "Applicant_Desired_Education_Type"
+msgstr "Applicant Desired Education Type"
+
+msgid "Add_Applicant_Desired_Education"
+msgstr "Applicant Desired Education Type"
+
+
+#. -------------------
+#. Applicant Desired Institution
+#. -------------------
+
+
+msgid "Edit_Applicant_Desired_Institution"
+msgstr "Edit Applicant Desired Institution"
+
+msgid "Is_Already_Registered"
+msgstr "Is Already Registered"
+
+#. -------------------
+#. Applicant Other
+#. -------------------
+msgid "Add_Applicant_Other"
+msgstr "Add Applicant Other"
+
+msgid "Need_Monthly_Accomodation"
+msgstr "Need Monthly Accomodation"
+
+msgid "Need_Monthly_Meal_Costs"
+msgstr "Need Monthly Meal Costs"
+
+msgid "Need_Other_Monthly_Allowances"
+msgstr "Need Other Monthly Allowances"
+
+msgid "Tuition_Fees"
+msgstr "Tuition Fees"
+
+msgid "Transport_Fees"
+msgstr "Transport Fees"
+
+msgid "Edit_Applicant_Other"
+msgstr "Edit_Applicant_Other"
+#. -------------------
+#. Applicant Travel Document
+#. -------------------
+
+
+msgid "Add_Applicant_Travel_Document"
+msgstr "Add Applicant Travel Document"
+
+msgid "Has_Valid_Visa"
+msgstr "Has Valid Visa"
+
+msgid "Has_Study_Permit"
+msgstr "Has_Study_Permit"
